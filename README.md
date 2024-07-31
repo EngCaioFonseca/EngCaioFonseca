@@ -18,8 +18,8 @@ Areas of research that I work or am interested: Neuroengineering/Bioengineering,
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/caioqfonseca#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/caioqfonseca#gh-dark-mode-only)
+[![website](img/instagram-light.svg)](https://www.linkedin.com/in/caioqfonseca#gh-light-mode-only)
+[![website](img/linkedin-dark.svg)](https://www.linkedin.com/in/caioqfonseca#gh-dark-mode-only)
 
 
 ### 🧰 Languages and Tools
