@@ -12,8 +12,8 @@ Background: Electrical Engineer with a Bachelor’s degree from the Universidade
 
 My research is related to computational and mathematical modelling in the area of Nanobioscience, Biophysics and Bioengineering, in the context of molecular communications and information theory for the treatment and diagnostics (theranostics) of glioblastoma multiforme, an aggressive form of brain tumor. 
 
-Areas of research that I work or am interested: Neuroengineering/Bioengineering, Molecular Communications & Information Theory, Molecular Biophysics, Nano & Precision medicine, Computational/Systems Biology, Computational/Simulation Neuroscience, Cancer Targeted Drug-Delivery, Evolutionary Algorithms and Robotics, Bio & Nanocomputation, Connectomics, Artificial Intelligence (Deep Learning), Gene Regulatory Networks, Genetic Circuits/Engineering, Electrical & Electronics Engineering, Control and Automation Engineering.Industry: .
-
+Areas of research that I work or am interested: Neuroengineering/Bioengineering, Molecular Communications & Information Theory, Molecular Biophysics, Nano & Precision medicine, Computational/Systems Biology, Computational/Simulation Neuroscience, Cancer Targeted Drug-Delivery, Evolutionary Algorithms and Robotics, Bio & Nanocomputation, Connectomics, Artificial Intelligence (Deep Learning), Gene Regulatory Networks, Genetic Circuits/Engineering, Electrical & Electronics Engineering, Control and Automation Engineering.
+---
 
 ### Connect with me:
 
@@ -21,6 +21,7 @@ Areas of research that I work or am interested: Neuroengineering/Bioengineering,
 [![website](img/linkedin-light.svg)](https://www.linkedin.com/in/caioqfonseca#gh-light-mode-only)
 [![website](img/linkedin-dark.svg)](https://www.linkedin.com/in/caioqfonseca#gh-dark-mode-only)
 
+#
 
 ### 🧰 Languages and Tools
 
@@ -34,5 +35,6 @@ Areas of research that I work or am interested: Neuroengineering/Bioengineering,
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
 
 [website]: https://caiofonseca.netlify.app
