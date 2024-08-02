@@ -11,6 +11,7 @@ I work at the Walton Institute for Information and Communication Systems Science
 Background: Electrical & Electronics Engineer with a Bachelor’s degree from the Universidade Federal de Campina Grande - UFCG (Top Electrical Engineering programs in the country).
 
 My research is related to computational and mathematical modelling in the area of Nanobioscience, Biophysics and Bioengineering, in the context of molecular communications and information theory for the treatment and diagnostics (theranostics) of glioblastoma multiforme, an aggressive form of brain tumor. 
+Currently my research is focusing on the application of molecular communications, information theory and Bayesian inference to the mathematical and computational modelling of Artificial and natural intelligence.
 
 Areas of research that I work or am interested: Neuroengineering/Bioengineering, Molecular Communications & Information Theory, Molecular Biophysics, Nano & Precision medicine, Computational/Systems Biology, Computational/Simulation Neuroscience, Cancer Targeted Drug-Delivery, Evolutionary Algorithms and Robotics, Bio & Nanocomputation, Connectomics, Artificial Intelligence (Deep Learning), Gene Regulatory Networks, Genetic Circuits/Engineering, Electrical & Electronics Engineering, Control and Automation Engineering.
 
