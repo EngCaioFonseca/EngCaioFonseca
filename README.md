@@ -8,7 +8,7 @@ Academic side: I am also a Computational Sciences and Applied Mathematics PhD st
 
 I work at the Walton Institute for Information and Communication Systems Science, Waterford Institute of Technology - Ireland.
 
-Background: Electrical Engineer with a Bachelor’s degree from the Universidade Federal de Campina Grande - UFCG (Top Electrical Engineering programs in the country).
+Background: Electrical & Electronics Engineer with a Bachelor’s degree from the Universidade Federal de Campina Grande - UFCG (Top Electrical Engineering programs in the country).
 
 My research is related to computational and mathematical modelling in the area of Nanobioscience, Biophysics and Bioengineering, in the context of molecular communications and information theory for the treatment and diagnostics (theranostics) of glioblastoma multiforme, an aggressive form of brain tumor. 
 
