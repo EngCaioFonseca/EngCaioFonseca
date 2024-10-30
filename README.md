@@ -6,6 +6,7 @@ Industry: I am currently working as an R&D/Medical device engineer II at Bausch+
 
 Academic side: I am also a Computational Sciences and Applied Mathematics PhD student. 
 I worked as a PhD Researcher specialising in Molecular communications for the treatment of brain tumours (Glioblastoma multiforme) working within the EU-H2020 FET Gladiator project (https://fet-gladiator.eu) from 2019-2023.
+
 Currently my research is focusing on the application of molecular communications, information theory and Bayesian inference to the mathematical and computational modelling of Artificial and natural intelligence.
 
 I work at the Walton Institute for Information and Communication Systems Science, Waterford Institute of Technology - Ireland.
