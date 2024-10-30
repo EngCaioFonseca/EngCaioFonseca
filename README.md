@@ -2,7 +2,8 @@
 
 **`R&D Medical Device Engineer II @ Bausch+Lomb | Computational Science PhD Researcher @ Walton Institute - SETU | Electrical Engineer`**
 
-Industry: I am currently working as an R&D/Medical device engineer II at Bausch+Lomb Waterford - Ireland.
+Industry: 
+* I am currently working as an R&D/Medical device engineer II at Bausch+Lomb Waterford - Ireland.
 
 Academic side: 
 * I am also a Computational Sciences and Applied Mathematics PhD student. 
