@@ -1,6 +1,6 @@
 # CAIO FONSECA
 
-**`Software Engineer & Data Scientists @ Red Hat | Computational Science PhD Researcher @ Walton Institute - SETU | Electrical Engineer`**
+**`Software Engineer & Data Scientist @ Red Hat | Computational Science PhD Researcher @ Walton Institute - SETU | Electrical Engineer`**
 
 ### Industry: 
 * I am currently working as Software Engineer at Red Hat Waterford - Ireland.
