@@ -1,9 +1,9 @@
 # CAIO FONSECA
 
-**`R&D Medical Device Engineer II @ Bausch+Lomb | Computational Science PhD Researcher @ Walton Institute - SETU | Electrical Engineer`**
+**`Software Engineer & Data Scientists @ Red Hat | Computational Science PhD Researcher @ Walton Institute - SETU | Electrical Engineer`**
 
 ### Industry: 
-* I am currently working as an R&D/Medical device engineer II at Bausch+Lomb Waterford - Ireland.
+* I am currently working as Software Engineer at Red Hat Waterford - Ireland.
 
 ### Academic side: 
 * I am also a Computational Sciences and Applied Mathematics PhD student. 
