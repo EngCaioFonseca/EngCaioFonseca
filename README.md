@@ -3,7 +3,7 @@
 **`Software Engineer @ Red Hat | Computational Science PhD Researcher @ Walton Institute - SETU | Electrical Engineer`**
 
 ### Industry: 
-* I am currently working as a Software Engineer & Data Scientist at Red Hat Waterford - Ireland.
+* I am currently working as a Software Engineer at Red Hat Waterford - Ireland.
 
 ### Academic side: 
 * I am also a Computational Sciences and Applied Mathematics PhD student. 
